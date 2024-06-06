@@ -10,6 +10,4 @@ Hello! You've reached Kaushik's repo (aka me). <br>I am currently pursuing my B.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MoriMidoriya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
