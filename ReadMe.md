@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! You've reached Kaushik's repo (aka me). <br>I am currently pursuing my B.Tech in CSE, specializing in Artificial Intelligence, <br>Currently working on improving my skills and learning a plethora of new things.
+Hello! You've reached Kaushik's repo (aka me). I make usefull niche stuff when im bored
 
 
 ## 🌐 Socials:
