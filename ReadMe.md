@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! You've reached Kaushik's repo (aka me). I make usefull niche stuff when im bored
+Hello! You've reached Kaushik's repo (aka me). I make useful niche stuff when im bored
 
 
 ## 🌐 Socials:
